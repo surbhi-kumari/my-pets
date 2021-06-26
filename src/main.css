@@ -1,0 +1,18 @@
+.search-text {
+    font-size: 35px;
+}
+.pet-list {
+    display: flex;
+    flex-direction: column;
+}
+.pet-card>div {
+    margin: 5px;
+    border: solid 1px grey;
+}
+.avatar {
+    width: 50px;
+}
+
+.selected {
+    background-color: darkgray;
+}
